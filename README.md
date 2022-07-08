@@ -32,7 +32,7 @@ You can read more about it [Here](#)
 - Nineth: [Time Zone Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/time_zone.csv)
 - Tenth: [City Type Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/city_type.csv)
 - Eleventh: [Store Location Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/store_location.csv)
-- Finally:[Orders Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/orders.csv)
+- Finally: [Orders Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/orders.csv)
 
 # N:B The currency of the values is USD.
 ## Happy Data Sleuthing!
