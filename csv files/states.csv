@@ -1,0 +1,49 @@
+StateCode,State,regions_id
+AL,Alabama,1
+AR,Arkansas,1
+AZ,Arizona,2
+CA,California,2
+CO,Colorado,2
+CT,Connecticut,4
+DC,District of Columbia,1
+DE,Delaware,1
+FL,Florida,1
+GA,Georgia,1
+HI,Hawaii,2
+IA,Iowa,3
+ID,Idaho,2
+IL,Illinois,3
+IN,Indiana,3
+KS,Kansas,3
+KY,Kentucky,1
+LA,Louisiana,1
+MA,Massachusetts,4
+MD,Maryland,1
+ME,Maine,4
+MI,Michigan,3
+MN,Minnesota,3
+MO,Missouri,3
+MS,Mississippi,1
+MT,Montana,2
+NC,North Carolina,1
+ND,North Dakota,3
+NE,Nebraska,3
+NH,New Hampshire,4
+NJ,New Jersey,4
+NM,New Mexico,2
+NV,Nevada,2
+NY,New York,4
+OH,Ohio,3
+OK,Oklahoma,1
+OR,Oregon,2
+PA,Pennsylvania,4
+RI,Rhode Island,4
+SC,South Carolina,1
+SD,South Dakota,3
+TN,Tennessee,1
+TX,Texas,1
+UT,Utah,2
+VA,Virginia,1
+WA,Washington,2
+WI,Wisconsin,3
+WY,Wyoming,2

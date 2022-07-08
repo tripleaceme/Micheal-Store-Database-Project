@@ -1,0 +1,11 @@
+type_id,city_type
+1,City
+2,Town
+3,CDP
+4,Unified Government
+5,Consolidated Government
+6,Other
+7,Township
+8,Urban County 
+9,Borough
+10,Metropolitan Government
