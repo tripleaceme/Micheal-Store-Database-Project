@@ -1,12 +1,35 @@
--- get all sales from customers(company) in the west region
-select full_name, total_order,format(profit,2) total_profit from
-(select cs.customer_id, full_name, count(order_id) total_order, sum(profit) profit from customer cs
-join orders ord using(customer_id) 
-join store_location sl on sl.store_location_id  = ord.store_id
-join states using(state_code)
-join regions using(region_id)
-where region_id = 2 and (full_name like('%Corp%') or full_name like('%Ltd%'))
-group by cs.customer_id) inner_que
-where profit > 10000 order by 2 desc;
+-- State Analysis
+-- Customer Analysis
+-- Sales Rep Analysis
+-- Regions Analysis
+-- Warehouse Analysis
+-- TimeZone Analysis
+-- Product Analysis
 
-select * from customers;
+
+
+-- get all sales from customers(company) in the west region
+SELECT 
+    full_name, total_order, FORMAT(profit, 2) total_profit
+FROM
+    (SELECT 
+        cs.customer_id,
+            full_name,
+            COUNT(order_id) total_order,
+            SUM(profit) profit
+    FROM
+        customer cs
+    JOIN orders ord USING (customer_id)
+    JOIN store_location sl ON sl.store_location_id = ord.store_id
+    JOIN states USING (state_code)
+    JOIN regions USING (region_id)
+    WHERE
+        region_id = 2
+            AND (full_name LIKE ('%Corp%')
+            OR full_name LIKE ('%Ltd%'))
+    GROUP BY cs.customer_id) inner_que
+WHERE
+    profit > 10000
+ORDER BY 2 DESC;
+
+select count(*) from orders;
