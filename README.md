@@ -4,7 +4,7 @@ An ecommerce business is any business that buys and sells goods or services over
 
 Shopping online used to be a convenience and a luxury, now – it’s a necessity. Ecommerce has been growing for a while, and the numbers below don’t account for the recent events leading to an increase in ecommerce sales.
 
-p> <a href="#" target="blank"><img src="https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/File%20Upload%20Wizard.PNG" alt="ER Diagram" /></a> </p>
+<p> <a href="#" target="blank"><img src="https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/Global-Retail-Ecommerce-Sales.webp" alt="E-Commerce Business Diagram" /></a> </p>
 
 ## Step-by-Step Ecommerce Guide
 - Step 1: Research Ecommerce Business Models
