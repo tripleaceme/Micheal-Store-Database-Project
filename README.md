@@ -25,7 +25,7 @@ With the data provided, we can help Micheal Store get a deeper understanding of 
 
 Data Model available [Here](https://github.com/tripleaceme/Micheal-Store-Database-Project/tree/main/Database%20Model)
 
-The raw file can be donloaded [here:](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/US_Regional_Sales_Data.xlsx)
+The raw file can be downloaded [here:](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/US_Regional_Sales_Data.xlsx)
 
 Dataset available [Here](https://github.com/tripleaceme/Micheal-Store-Database-Project/tree/main/csv%20files)
 
