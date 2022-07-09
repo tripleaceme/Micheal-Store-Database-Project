@@ -1,5 +1,26 @@
 # An End-to-End Data Analytics Project for an E-Commerce Business
 
+An ecommerce business is any business that buys and sells goods or services over the internet. Ecommerce business's will digitally transfer money and data to execute these online transactions. The ecommerce business industry is exploding. Brick and mortar stores that temporarily closed may never open again.
+
+Shopping online used to be a convenience and a luxury, now – it’s a necessity. Ecommerce has been growing for a while, and the numbers below don’t account for the recent events leading to an increase in ecommerce sales.
+
+p> <a href="#" target="blank"><img src="https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/File%20Upload%20Wizard.PNG" alt="ER Diagram" /></a> </p>
+
+## Step-by-Step Ecommerce Guide
+- Step 1: Research Ecommerce Business Models
+- Step 2: Start Ecommerce Niche Research
+- Step 3: Validate Target Market and Product Ideas
+- Step 4: Register Your Ecommerce Business & Brand Name
+- Step 5: Finalize Your Ecommerce Business Plan
+- Step 6: Create Your Online Store
+- Step 7: Attracting Customers to Your Ecommerce Store
+
+# Justification for the project
+
+Online retail is a booming business. But we’ve seen too many ecommerce businesses struggle to get traction. As your business grows it’s very likely you’ll want to grow your product range and your target audience, as well as develop your business for customer requirements and consumer demand. 
+
+With the data provided, we can help Micheal Store get a deeper understanding of what needs to be done and how to scale their revenue.
+
 Below is a link to the Data Model and the data source.
 
 Data Model available [Here](https://github.com/tripleaceme/Micheal-Store-Database-Project/tree/main/Database%20Model)
@@ -10,7 +31,7 @@ Dataset available [Here](https://github.com/tripleaceme/Micheal-Store-Database-P
 
 You can read more about it [Here](#)
 
-# ER DIAGRAM for the Micheal Store Database Project E-Commerce Business
+# ER Diagram for Micheal Store
 <p> <a href="#" target="blank"><img src="https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/Micheal%20Store%20ER%20Diragram.png" alt="ER Diagram" /></a> </p>
 
 ## How to use this library:
@@ -32,7 +53,7 @@ You can read more about it [Here](#)
 - Nineth: [Time Zone Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/time_zone.csv)
 - Tenth: [City Type Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/city_type.csv)
 - Eleventh: [Store Location Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/store_location.csv)
-- Finally:[Orders Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/orders.csv)
+- Finally: [Orders Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/orders.csv)
 
 # N:B The currency of the values is USD.
 ## Happy Data Sleuthing!
