@@ -6,7 +6,7 @@ Shopping online used to be a convenience and a luxury, now – it’s a necessit
 
 <p> <a href="#" target="blank"><img src="https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/Global-Retail-Ecommerce-Sales.webp" alt="E-Commerce Business Diagram" /></a> </p>
 
-## Step-by-Step Ecommerce Guide
+## Step-by-Step Ecommerce Guide to own an ecommerce business
 - Step 1: Research Ecommerce Business Models
 - Step 2: Start Ecommerce Niche Research
 - Step 3: Validate Target Market and Product Ideas
