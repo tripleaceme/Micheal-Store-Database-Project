@@ -59,18 +59,18 @@ You can read more about it [Here](#)
 ## Option 2
 - create a database `micheal_store`
 - Download the micheal-store folder from [here](https://github.com/tripleaceme/Micheal-Store-Database-Project/) or download the single files below and execute in the following the order:
-    - First: [Sales Channel Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/sales_channel.csv)
-    - Second: [Customer Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/customer.csv)
-    - Third: [Products Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/products.csv)
-    - Fourth: [Regions Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/regions.csv)
-    - Fifth: [States Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/states.csv)
-    - Sixth: [Sales Team Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/sales_team.csv)
-    - Seventh: [Warehouse Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/warehouse.csv)
-    - Eight: [County Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/county.csv)
-    - Nineth: [Time Zone Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/time_zone.csv)
-    - Tenth: [City Type Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/city_type.csv)
-    - Eleventh: [Store Location Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/store_location.csv)
-    - Finally: [Orders Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/orders.csv)
+    - First: [Sales Channel Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_sales_channel.sql)
+    - Second: [Customer Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_customers.sql)
+    - Third: [Products Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_product.sql)
+    - Fourth: [Regions Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_regions.sql)
+    - Fifth: [States Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_states.sql)
+    - Sixth: [Sales Team Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_sales_team.sql)
+    - Seventh: [Warehouse Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_warehouse.sql)
+    - Eight: [County Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_county.sql)
+    - Nineth: [Time Zone Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_time_zome.sql)
+    - Tenth: [City Type Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_city_type.sql)
+    - Eleventh: [Store Location Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_store_location.sql)
+    - Finally: [Orders Query](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/micheal_store/micheal_store_orders.sql)
 
 ## N:B The currency of the values is USD.
 # Happy Data Sleuthing!
