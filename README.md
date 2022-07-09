@@ -15,7 +15,7 @@ Shopping online used to be a convenience and a luxury, now – it’s a necessit
 - Step 6: Create Your Online Store
 - Step 7: Attracting Customers to Your Ecommerce Store
 
-# Justification for the project
+## Justification for the project
 
 Online retail is a booming business. But we’ve seen too many ecommerce businesses struggle to get traction. As your business grows it’s very likely you’ll want to grow your product range and your target audience, as well as develop your business for customer requirements and consumer demand. 
 
@@ -55,8 +55,8 @@ You can read more about it [Here](#)
 - Eleventh: [Store Location Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/store_location.csv)
 - Finally: [Orders Table](https://github.com/tripleaceme/Micheal-Store-Database-Project/blob/main/csv%20files/orders.csv)
 
-# N:B The currency of the values is USD.
-## Happy Data Sleuthing!
+## N:B The currency of the values is USD.
+# Happy Data Sleuthing!
 
 Follow me on [LinkedIn:](https://www.linkedin.com/in/tripleaceme/)
 
