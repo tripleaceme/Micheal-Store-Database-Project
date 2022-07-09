@@ -21,7 +21,7 @@ Online retail is a booming business. But we’ve seen too many ecommerce busines
 
 With the data provided, we can help Micheal Store get a deeper understanding of what needs to be done and how to scale their revenue.
 
-Below is a link to the Data Model and the data source.
+# Below is a link to the Data Model and the data source.
 
 Data Model available [Here](https://github.com/tripleaceme/Micheal-Store-Database-Project/tree/main/Database%20Model)
 
