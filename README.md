@@ -1,4 +1,4 @@
-# An End-to-End Data Analytics Project for an E-Commerce Business
+# An End-to-End Data Analytics Project (E-Commerce Business)
 
 An ecommerce business is any business that buys and sells goods or services over the internet. Ecommerce business's will digitally transfer money and data to execute these online transactions. The ecommerce business industry is exploding. Brick and mortar stores that temporarily closed may never open again.
 
