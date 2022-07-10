@@ -1,4 +1,36 @@
 -- State Analysis
+-- Q1. 
+/*
+1.What was the best month for sales? How much was earned that month?
+
+2.Which city had the highest number of sales?
+
+3.Recommend the most appropriate time to display advertising to maximize the likelihood of customers buying the products?
+
+4.What products sold the most? Why do you think it sold the most?
+
+5. Delivery Mode by state
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+select procure_date,order_date,shipping_date,delivery_date from orders order by procure_date desc;
+
 -- Customer Analysis
 -- Sales Rep Analysis
 -- Regions Analysis
